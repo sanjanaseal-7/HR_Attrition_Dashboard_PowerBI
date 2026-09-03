@@ -37,5 +37,5 @@ I created this dashboard to analyse employee attrition patterns and identify key
 Attrition is highest during the early years of employment, highlighting the importance of employee engagement and retention strategies.
 
 # Screenshot: 
-https://github.com/sanjanaseal-7/HR_Attrition_Dashboard/blob/main/HR_attrition.png
+
 
